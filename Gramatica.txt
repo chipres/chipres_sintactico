@@ -1,0 +1,14 @@
+cicloif [condicion]:
+(
+	
+)
+celseif [condicion]:
+(
+
+
+)
+	
+cicloelse
+(
+
+);
