@@ -1,0 +1,121 @@
+cicloif [condicion]:
+(
+	
+)
+celseif [condicion]:
+(
+
+
+)
+	
+cicloelse
+(
+
+);
+
+
+ciclofor[inicio:condicion:incredecre]
+(
+bloque
+);
+
+ciclowhile [condicion]:
+(
+bloque
+);
+
+ciclodowhile
+(
+ bloque
+); ciclowhile condicion:
+
+etry
+(
+bloque
+);
+
+ecatch
+(
+bloque
+);
+
+escanf id [tipodedato]:
+
+usar- id []:
+
+nueva- clase: id
+(
+
+);
+
+eforeach [id tipodedato digito]:
+(
+ bloque
+);
+
+eprintf $ [id]:
+
+
+nada- principio{}:
+(
+bloque
+);
+
+delegado [id]:
+(
+ bloque
+);
+
+interfaz [id]:
+(
+bloque
+);
+
+imprimer [id]:
+
+comprobando :
+(
+bloque
+);
+
+sinmarca $[ ]:
+(
+bloque
+);
+
+tipodedato met[id][id operela id]:
+(
+bloque
+);
+
+valor id=id operela digito;
+
+variable [id] tipodedato
+
+
+eswitch [id]:
+
+ecase :
+(
+bloque
+ecase:
+bloque
+edefault:
+);
+
+id estruct [ ]:
+(
+ bloque
+);
+
+id tipodedato[ ]=pnew tipodedato[digito]
+
+milista id tipodedato;
+
+digito: pcose;
+
+digito :psqrt = id;
+
+digito :ppow, digito;
+
+digito : digito, ramdom = id
